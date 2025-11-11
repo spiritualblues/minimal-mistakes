@@ -1,5 +1,5 @@
 ---
-title: "testing from github 2 mobile"
+title: ""
 date: 2025-11-11
 tags: [newtag, setup]
 comments: true
