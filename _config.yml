@@ -62,7 +62,7 @@ plugins:
 author:
 #  name   : "spiritual blues"
   bio    : "perpetually rooting for the underdog"
-  links:
+#  links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://desk.spi.blue"
