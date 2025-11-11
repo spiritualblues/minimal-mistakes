@@ -1,0 +1,5 @@
+/* Hide category UI everywhere */
+.page__taxonomy .taxonomy__categories,
+.page__meta .taxonomy__categories {
+  display: none;
+}
