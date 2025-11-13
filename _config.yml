@@ -65,10 +65,10 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://desk.spi.blue"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/spiritualblues"
+      url: "https://spi.blue"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+  #    url: "https://twitter.com/spiritualblues"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/spiritualblues"
@@ -78,9 +78,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/spiritualblues"
+#    - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+#    url: "https://twitter.com/spiritualblues"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/spiritualblues"
