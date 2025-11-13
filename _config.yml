@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: spiritual blues
+title: spi.blue/blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,7 +24,7 @@ github_username: spiritualblues
 url: "https://spi.blue"
 baseurl: "/blog"
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-#  name   : "spiritual blues"
+  name   : "spiritual blues"
   bio    : "perpetually rooting for the underdog"
   links:
     - label: "Website"
