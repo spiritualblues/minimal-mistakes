@@ -24,7 +24,7 @@ github_username: spiritualblues
 url: "https://spi.blue"
 baseurl: "/blog"
 minimal_mistakes_skin: default
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
