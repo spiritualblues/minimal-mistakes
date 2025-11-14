@@ -9,4 +9,4 @@ comments: false
 # Test
 Test add to jekyll
 
-![DESCRIPTION](/assets/images/notion1.jpg)
+![DESCRIPTION](/blog/assets/images/notion1.jpg)
