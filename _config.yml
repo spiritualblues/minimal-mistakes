@@ -58,7 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-seo-tag
 author:
   name   : "spi.blue/blog"
   bio    : "perpetually rooting for the underdog"
